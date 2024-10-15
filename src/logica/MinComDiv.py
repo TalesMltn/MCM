@@ -19,4 +19,4 @@ if __name__ == "__main__":
     resultado = lcm(num1, num2)
 
     # Mostramos el resultado
-    print(f"Elmínimo común múltiplo de {num1} y {num2} es: {resultado}")
+    print(f"El mínimo común múltiplo de {num1} y {num2} es: {resultado}")

@@ -1,6 +1,6 @@
 import unittest
 from src.logica.MinComDiv import lcm
-#a
+
 class TestLCM(unittest.TestCase):
     def test_lcm(self):
         self.assertEqual(lcm(4, 5), 20)
